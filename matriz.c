@@ -21,7 +21,7 @@ int main(){
 
     printf("%d\n", Soma);
 
-   
+   printf("%d + d = %d", A ,  B, &Soma);
 
     return 0;
 }
